@@ -21,8 +21,8 @@ The dataset contains reviews collected from various hotels, including metadata s
 ## Project Structure
 
 - **`Hotel_Reviews_Sentiment_Analysis.ipynb`**: The main Jupyter Notebook containing the code for data preprocessing, sentiment analysis, and topic modeling.
-- **`data/`**: (Optional) A folder containing a sample dataset, if needed.
-- **`code/`**: Additional Python scripts or code snippets used in the project (if applicable).
+- **`data/`**: 
+- **`code/`**:
 - **`Final_Report.pdf`**: The final project report that provides a detailed explanation of the project steps, results, and conclusions.
 - **`requirements.txt`**: A file listing all the Python libraries and dependencies required to run the project.
   
